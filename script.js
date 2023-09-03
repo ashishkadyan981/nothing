@@ -9,3 +9,6 @@ function  b(){
 function  c(){
     "this is only for branch checking."
 }
+function  d(){
+    "this is only for branch checking."
+}
